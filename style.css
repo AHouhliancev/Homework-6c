@@ -1,0 +1,39 @@
+h1 {
+    font-size: 18px;
+    font-weight: Bold;
+    margin: 20px 0px 0px 0px;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: Bold;
+    margin: 20px 0px 0px 0px;
+}
+
+span {
+    margin: 0px;
+    color: rgb(17, 158, 17);
+}
+
+p {
+    margin: 0px;
+    color: rgb(236, 46, 46);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(41, 41, 219);
+    font-weight: bold;
+}
+
+div div {
+    font-size: 15px;
+    line-height: normal;
+    color: rgb(41, 41, 219);
+}
+
+a.link {
+    background: url(img/Link.png) no-repeat 0px 5px;
+    background-size: 8px 8px;
+    padding-left: 10px;
+}
